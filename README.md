@@ -8,7 +8,7 @@ This program consist of a simple Web Crawler used to crawl the website.
 This python based crawler works on the logic that if there is a http or '/' after a "(quote symbol) it should be a link
 
 
-Hoe to run this program
+How to run this program
 
 Step:1
 In the Linux terminal, just type
